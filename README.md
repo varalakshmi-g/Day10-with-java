@@ -1,5 +1,5 @@
 # Day10-with-java
-\
+
 Today's task is to Write a program that finds the largest element present in an array.
 
 Example:
